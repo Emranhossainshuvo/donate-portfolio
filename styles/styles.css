@@ -1,0 +1,54 @@
+
+.first-line{
+    text-align: center;
+    padding-top: 200px;
+    font-size: 90px;
+}
+.header{
+    background-image: url(../images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 800px;
+    width: 2000px;
+       
+}
+.donate{
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.donate1{
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace
+}
+.donate2{
+    font-family: 'Open Sans', sans-serif;
+}
+.for{
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    height: 800px;
+
+}
+.tor{
+    color: #FFFFFF;
+
+}
+.second-line{
+    text-align: center;
+    font-size: 30px;
+    color: #ffffff;
+    padding-bottom: 60px;
+
+}
+.button{
+   height: 65px;
+   width: 115px;
+   background-color: crimson;
+   border-radius: 10px;
+   border-style: none;
+   position: absolute;
+   left: 50%;
+   
+   
+}
